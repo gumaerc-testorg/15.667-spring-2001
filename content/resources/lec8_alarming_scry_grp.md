@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-667-negotiation-and-conflict-management-spring-2001/965c398d8bbea1855b723e47046e296d_lec8_alarming_scry_grp.pdf
+file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/965c398d8bbea1855b723e47046e296d_lec8_alarming_scry_grp.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec8_alarming_scry_grp.pdf
 uid: 965c398d-8bbe-a185-5b72-3e47046e296d

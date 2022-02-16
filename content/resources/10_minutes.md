@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-667-negotiation-and-conflict-management-spring-2001/6607fc2076731ec0b09cdeb06cf1e4d9_10_minutes.pdf
+file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/6607fc2076731ec0b09cdeb06cf1e4d9_10_minutes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 10_minutes.pdf
 uid: 6607fc20-7673-1ec0-b09c-deb06cf1e4d9

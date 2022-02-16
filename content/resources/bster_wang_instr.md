@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-667-negotiation-and-conflict-management-spring-2001/31f32aa20c2375a34cc3a0d3bece4974_bster_wang_instr.pdf
+file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/31f32aa20c2375a34cc3a0d3bece4974_bster_wang_instr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: bster_wang_instr.pdf
 uid: 31f32aa2-0c23-75a3-4cc3-a0d3bece4974

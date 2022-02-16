@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-667-negotiation-and-conflict-management-spring-2001/d1a4692353fd46508c79a2437b05b90d_navig_sys_policy.pdf
+file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/d1a4692353fd46508c79a2437b05b90d_navig_sys_policy.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: navig_sys_policy.pdf
 uid: d1a46923-53fd-4650-8c79-a2437b05b90d

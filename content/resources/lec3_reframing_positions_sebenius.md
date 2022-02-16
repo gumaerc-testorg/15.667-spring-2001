@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-667-negotiation-and-conflict-management-spring-2001/74a3be7154c30d689f264129251ef39a_lec3_reframing_positions_sebenius.pdf
+file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/74a3be7154c30d689f264129251ef39a_lec3_reframing_positions_sebenius.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec3_reframing_positions_sebenius.pdf
 uid: 74a3be71-54c3-0d68-9f26-4129251ef39a
