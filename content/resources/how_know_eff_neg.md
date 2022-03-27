@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 89a77193-9aed-eb33-8351-b1c72e8b5756
 resourcetype: Document
 title: how_know_eff_neg.pdf
 uid: b471683c-e41e-6012-1fc0-3b3b1a453e01

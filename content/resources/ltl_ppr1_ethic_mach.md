@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f063e7a9-e506-84e0-3ae5-0d64da30a249
 resourcetype: Document
 title: ltl_ppr1_ethic_mach.pdf
 uid: 191f61fd-ba65-d4eb-c6d2-e286a1e4b076

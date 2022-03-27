@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cbc0844b-ccd9-ec29-098f-45393b46b34b
 resourcetype: Document
 title: bster_wang_instr.pdf
 uid: 31f32aa2-0c23-75a3-4cc3-a0d3bece4974

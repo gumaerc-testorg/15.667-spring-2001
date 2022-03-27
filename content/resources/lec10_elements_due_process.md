@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cbc0844b-ccd9-ec29-098f-45393b46b34b
 resourcetype: Document
 title: lec10_elements_due_process.pdf
 uid: 63c06ac4-aab4-8f72-7f6c-c3f05c99859f

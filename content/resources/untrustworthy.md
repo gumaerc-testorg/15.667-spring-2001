@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cbc0844b-ccd9-ec29-098f-45393b46b34b
 resourcetype: Document
 title: untrustworthy.pdf
 uid: dad91885-353e-a06f-cb02-20d4686d5558

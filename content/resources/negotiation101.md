@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 89a77193-9aed-eb33-8351-b1c72e8b5756
 resourcetype: Document
 title: negotiation101.pdf
 uid: 1f3f7675-faec-1221-12c2-a847c7433a59

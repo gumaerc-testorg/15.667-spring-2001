@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 89a77193-9aed-eb33-8351-b1c72e8b5756
 resourcetype: Document
 title: ineff_eff.pdf
 uid: ff012f0d-8f10-445a-d2db-63c218bdcc50

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f063e7a9-e506-84e0-3ae5-0d64da30a249
 resourcetype: Document
 title: pie_ltr_assign.pdf
 uid: 850c4948-5635-b111-c58f-b11d5598c645

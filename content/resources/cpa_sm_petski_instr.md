@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cbc0844b-ccd9-ec29-098f-45393b46b34b
 resourcetype: Document
 title: cpa_sm_petski_instr.pdf
 uid: 03f997a9-d11c-c5fa-9817-e59f875738a1

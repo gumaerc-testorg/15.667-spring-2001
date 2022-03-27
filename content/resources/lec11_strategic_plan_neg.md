@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cbc0844b-ccd9-ec29-098f-45393b46b34b
 resourcetype: Document
 title: lec11_strategic_plan_neg.pdf
 uid: b23b4235-67f2-8a32-10cd-2eeb488ca1a1

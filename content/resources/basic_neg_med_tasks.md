@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 89a77193-9aed-eb33-8351-b1c72e8b5756
 resourcetype: Document
 title: basic_neg_med_tasks.pdf
 uid: d1dda04c-a0ef-f264-2c69-fd4af8f70d5e

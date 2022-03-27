@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cbc0844b-ccd9-ec29-098f-45393b46b34b
 resourcetype: Document
 title: telemachus_meese.pdf
 uid: e78b8d2e-4cf8-d6b5-f80f-5417f4f18a2e

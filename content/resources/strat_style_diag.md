@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 89a77193-9aed-eb33-8351-b1c72e8b5756
 resourcetype: Document
 title: strat_style_diag.pdf
 uid: 38f73f87-0a70-8102-93ec-a77747308ac8

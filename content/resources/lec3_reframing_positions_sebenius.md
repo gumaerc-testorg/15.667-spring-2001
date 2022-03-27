@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cbc0844b-ccd9-ec29-098f-45393b46b34b
 resourcetype: Document
 title: lec3_reframing_positions_sebenius.pdf
 uid: 74a3be71-54c3-0d68-9f26-4129251ef39a

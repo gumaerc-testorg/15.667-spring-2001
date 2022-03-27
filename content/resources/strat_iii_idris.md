@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cbc0844b-ccd9-ec29-098f-45393b46b34b
 resourcetype: Document
 title: strat_iii_idris.pdf
 uid: 1bf34cb3-c7c0-baf8-b8cd-84a62a77ea66
