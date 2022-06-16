@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/c1b670356f44401ee127273b8194c930_lec11_airport_rising.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/c1b670356f44401ee127273b8194c930_lec11_airport_rising.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

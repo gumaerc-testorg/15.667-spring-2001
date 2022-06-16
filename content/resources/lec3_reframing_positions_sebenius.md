@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/74a3be7154c30d689f264129251ef39a_lec3_reframing_positions_sebenius.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/74a3be7154c30d689f264129251ef39a_lec3_reframing_positions_sebenius.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

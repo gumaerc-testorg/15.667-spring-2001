@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -8,7 +9,7 @@ uid: 651d8473-c5a8-3076-5838-702b9ac4a410
 
 To ease navigation through the 15.667 web site, the topics, readings, and assignments for each class have been split into separate pages. An overview of the calendar is presented in the table below. A version of the syllabus and calendar is also available that lists all aspects of each class together.
 
-Course syllabus and calendar, including assignments and readings ([PDF]({{< baseurl >}}/resources/syllabus))
+Course syllabus and calendar, including assignments and readings ({{% resource_link 7152b3ad-df21-c7f0-01d1-745f8d1c0bd0 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/1f3f7675faec122112c2a847c7433a59_negotiation101.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/1f3f7675faec122112c2a847c7433a59_negotiation101.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

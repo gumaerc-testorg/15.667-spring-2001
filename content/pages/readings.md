@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,7 +15,7 @@ Some of the readings are drawn from these textbooks, which may also be useful fo
 *   Ury, William. _Getting Past No: Negotiating with Difficult People_. Bantam, 1992.
 *   Fisher, Roger, and William Ury. _Getting to Yes_. Arrow, 1991.
 
-The cases mentioned below often have documents and instructions available on the [lecture notes]({{< baseurl >}}/pages/lecture-notes) page. Other suggested books about negotiation can be found in the [related resources]({{< baseurl >}}/pages/related-resources) section.
+The cases mentioned below often have documents and instructions available on the {{% resource_link cbc0844b-ccd9-ec29-098f-45393b46b34b "lecture notes" %}} page. Other suggested books about negotiation can be found in the {{% resource_link 25e80f1a-f7ad-5cc6-ae99-0f42e8ac5ebb "related resources" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

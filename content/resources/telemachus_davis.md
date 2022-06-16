@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/87825fc37a7d79a1cf9bb6b0dc846efb_telemachus_davis.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/87825fc37a7d79a1cf9bb6b0dc846efb_telemachus_davis.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

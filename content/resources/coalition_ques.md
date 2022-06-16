@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/99e7866da07680881ae5e65a31d77c25_coalition_ques.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/99e7866da07680881ae5e65a31d77c25_coalition_ques.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

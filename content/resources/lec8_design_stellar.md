@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/5dd9bc5e50533977d6d0fa10b423f9a5_lec8_design_stellar.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/5dd9bc5e50533977d6d0fa10b423f9a5_lec8_design_stellar.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

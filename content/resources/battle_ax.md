@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-667-negotiation-and-conflict-management-spring-2001/2e0a9a980e3fbcda099f4d336b11d32e_battle_ax.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/2e0a9a980e3fbcda099f4d336b11d32e_battle_ax.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
