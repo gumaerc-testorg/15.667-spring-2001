@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9c29fd70-ac2c-e7d5-756c-92263eadc3e6
 ---
@@ -11,7 +14,7 @@ Course Meeting Times
 
 Lectures: 1 session / week, 3 hours / session
 
-Course syllabus and calendar, including assignments and readings ([PDF]({{< baseurl >}}/resources/syllabus))
+Course syllabus and calendar, including assignments and readings ({{% resource_link 7152b3ad-df21-c7f0-01d1-745f8d1c0bd0 "PDF" %}})
 
 Course Description
 ------------------

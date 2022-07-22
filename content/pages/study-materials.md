@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 89a77193-9aed-eb33-8351-b1c72e8b5756
 ---
@@ -14,8 +17,8 @@ Several resources used throughout the course are available:
 
 The most essential handouts from the course have been assembled into a packet called _Negotiation 101_. The individual contents are available in the table below, or the packet can be viewed in its entirety:
 
-*   _Negotiation 101_, complete ([PDF - 1.0 MB]({{< baseurl >}}/resources/negotiation101))
-*   Notes on _Negotiation 101_ ([PDF]({{< baseurl >}}/resources/notes_on_n101))
+*   _Negotiation 101_, complete ({{% resource_link 1f3f7675-faec-1221-12c2-a847c7433a59 "PDF - 1.0 MB" %}})
+*   Notes on _Negotiation 101_ ({{% resource_link a064e64a-4011-f19f-27b9-da68e17afabc "PDF" %}})
 
 Contents of _Negotiation 101_:
 
@@ -45,7 +48,7 @@ FILES
 A list of situations which may or may not represent a negotiation.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/nego_quiz))
+({{% resource_link 331aa9b6-62b8-1b41-9df7-952ecb6ffa70 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +62,7 @@ A list of situations which may or may not represent a negotiation.
 A list of general questions from the course.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/butterfly_view))
+({{% resource_link 635538b5-320d-f269-5ab2-c4553660ef24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +76,7 @@ A list of general questions from the course.
 Diagrams of competition, avoidance, accommodation, collaboration, and compromise.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/neg_styl_strat))
+({{% resource_link 673af950-bd50-5968-1e56-8eac137578e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +88,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Conflict Styles**This handout answers the question, "When to use which style?"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/conflict_styles))
+({{% resource_link 0873bf19-aa27-860b-516d-4c25fcf3aeb6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +100,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Negotiation Styles, Definitions, and Team Building**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/neg_strat_defs_tm))
+({{% resource_link 32e50567-b3e2-d15a-3711-ee18a1e21c98 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +114,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Bargaining Range, Reservation Point, Expanding the Pie, and Positions vs. Interests
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/more_terms_neg))
+({{% resource_link 336d6c3c-8461-9b74-bbe6-f4a04dbdf956 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +126,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Strategy and Style Diagram**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/strat_style_diag))
+({{% resource_link 38f73f87-0a70-8102-93ec-a77747308ac8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +138,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Ineffective Competitives, Ineffective Cooperatives, Effective Negotiators**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ineff_eff))
+({{% resource_link ff012f0d-8f10-445a-d2db-63c218bdcc50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +150,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Bargaining Tactics for Distributive, Integrative and Mixed Motive Strategies**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/bargaining_tactics))
+({{% resource_link f3e3eab1-64ad-035f-4f88-513adfc2d03e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +162,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Basic Negotiation and Mediation Tasks**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/basic_neg_med_tasks))
+({{% resource_link d1dda04c-a0ef-f264-2c69-fd4af8f70d5e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +176,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Positional Power, Rewards, Sanctions, Force, Information, Expertise, An Elegant Solution, Charisma, Commitment, Relationship, BATNA
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/src_of_power))
+({{% resource_link 61b560e8-5fc7-b664-7b1e-555899e0227b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +188,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Preparing for a Negotiation**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/prep_for_neg))
+({{% resource_link d853890a-e327-1bfd-0835-291e7aeebf2a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +200,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 **Dealing with Difficult Tactics**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/dealg_diff_tact))
+({{% resource_link 58267e4f-79bf-d94f-4a51-a4aa46e4b4df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +214,7 @@ Diagrams of competition, avoidance, accommodation, collaboration, and compromise
 Includes Problem-Solving and Formal Options
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/complaint_handling))
+({{% resource_link 8a008382-ff5f-146e-fde3-2df2d1d79a90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +226,7 @@ Includes Problem-Solving and Formal Options
 **Changing Behavior**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/changing_behavior))
+({{% resource_link 4b0bb8de-0be2-109c-34f3-5b88dcb5b3cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,14 +238,14 @@ Includes Problem-Solving and Formal Options
 **How Would You Know If You Are an Effective Negotiator?**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/how_know_eff_neg))
+({{% resource_link b471683c-e41e-6012-1fc0-3b3b1a453e01 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-{{< anchor "negofothers" >}}{{< /anchor >}}Analyzing, Giving Feedback, and Observing the Negotiations of Others ([PDF]({{< baseurl >}}/resources/analyz_neg_others))
+{{< anchor "negofothers" >}}{{< /anchor >}}Analyzing, Giving Feedback, and Observing the Negotiations of Others ({{% resource_link 181a6b59-647e-0157-080d-154fb2a178ea "PDF" %}})
 
 Here are questions that may be useful analysis – and feedback – especially when writing the Separate Page assignments.
 
