@@ -5,6 +5,7 @@ file: /courses/15-667-negotiation-and-conflict-management-spring-2001/9749e4c71a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec11_class_summary.pdf
 uid: 9749e4c7-1af3-3ee3-1dd2-e0a05897d282
 ---
 Class summary.
-

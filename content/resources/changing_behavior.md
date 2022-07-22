@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/4b0bb8de0be2109c34f35b88dcb5b3cd_changing_behavior.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

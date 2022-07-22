@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/331aa9b662b81b419df7952ecb6ffa70_nego_quiz.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

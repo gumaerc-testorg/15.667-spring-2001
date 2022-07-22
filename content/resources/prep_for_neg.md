@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/d853890ae3271bfd0835291e7aeebf2a_prep_for_neg.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

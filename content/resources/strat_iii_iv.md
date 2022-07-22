@@ -5,6 +5,7 @@ file: /courses/15-667-negotiation-and-conflict-management-spring-2001/8852f83641
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: strat_iii_iv.pdf
 uid: 8852f836-4122-733f-be66-5eabbea75fed
 ---
 This file contains lecture notes.
-
