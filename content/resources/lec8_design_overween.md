@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/d486f220e9a52fb5ce7b8e94e9ff1d11_lec8_design_overween.pdf
+file_size: 10497
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

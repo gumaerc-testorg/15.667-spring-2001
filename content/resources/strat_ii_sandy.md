@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains lecture notes.
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/4dc75824e35f3b04dde2d9a1581366a4_strat_ii_sandy.pdf
+file_size: 80644
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

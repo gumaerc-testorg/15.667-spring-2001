@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/dbf8cf1c2d6136d02437e6fd9c376dea_lec11_coping_under_extreme.pdf
+file_size: 20250
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
