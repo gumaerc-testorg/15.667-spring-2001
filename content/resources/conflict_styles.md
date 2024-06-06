@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/0873bf19aa27860b516d4c25fcf3aeb6_conflict_styles.pdf
+file_size: 783298
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

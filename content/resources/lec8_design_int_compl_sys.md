@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/511df8328483bcfe3c017d320c625b67_lec8_design_int_compl_sys.pdf
+file_size: 10719
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

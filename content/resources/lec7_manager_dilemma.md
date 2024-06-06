@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/52c6fbc918c78757746d7279c9395e59_lec7_manager_dilemma.pdf
+file_size: 10809
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

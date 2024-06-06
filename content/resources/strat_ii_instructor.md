@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/6e6584a3d025b1407ca7bc7d595a9982_strat_ii_instructor.pdf
+file_size: 11276
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

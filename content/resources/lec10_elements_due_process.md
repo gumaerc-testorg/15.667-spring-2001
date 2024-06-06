@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/63c06ac4aab48f727f6cc3f05c99859f_lec10_elements_due_process.pdf
+file_size: 11077
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

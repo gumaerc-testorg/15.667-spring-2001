@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/aa93a2fdfcbc2bd9586a4926e5c19206_lec8_workplace_satisfaction.pdf
+file_size: 11473
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
