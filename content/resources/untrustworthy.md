@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/dad91885353ea06fcb0220d4686d5558_untrustworthy.pdf
+file_size: 60021
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

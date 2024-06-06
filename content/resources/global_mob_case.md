@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/ce739b8bc57e58dac10aff29f66c2f1c_global_mob_case.pdf
+file_size: 87780
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

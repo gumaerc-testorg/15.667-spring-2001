@@ -2,6 +2,7 @@
 content_type: resource
 description: Class summary.
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/9749e4c71af33ee31dd2e0a05897d282_lec11_class_summary.pdf
+file_size: 14451
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

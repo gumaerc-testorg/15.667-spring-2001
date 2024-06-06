@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/31f32aa20c2375a34cc3a0d3bece4974_bster_wang_instr.pdf
+file_size: 88244
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

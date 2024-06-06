@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-667-negotiation-and-conflict-management-spring-2001/9e3fe4192fbc810cb80ed36c9f932676_lec7_manager_dilemma_eavesdropper.pdf
+file_size: 10795
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
