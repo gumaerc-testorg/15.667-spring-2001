@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/4ed85496a75d6d733278156d5037687d_lec11_airport_instr_note.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/4ed85496a75d6d733278156d5037687d_lec11_airport_instr_note.pdf
 file_size: 11404
 file_type: application/pdf
 learning_resource_types:

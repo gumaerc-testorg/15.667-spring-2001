@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/e8254dcf76522642a08e3c894a56f585_bster_instructor.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/e8254dcf76522642a08e3c894a56f585_bster_instructor.pdf
 file_size: 10393
 file_type: application/pdf
 learning_resource_types:
