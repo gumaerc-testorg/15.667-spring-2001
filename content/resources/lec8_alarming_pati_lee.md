@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/1cc96c4bf4ab97ce87699276e88af157_lec8_alarming_pati_lee.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/1cc96c4bf4ab97ce87699276e88af157_lec8_alarming_pati_lee.pdf
 file_size: 10671
 file_type: application/pdf
 learning_resource_types:

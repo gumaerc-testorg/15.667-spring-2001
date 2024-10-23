@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/d601e804332b43ad736199ce3018ac4a_lec2_brainstorm_protocol.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/d601e804332b43ad736199ce3018ac4a_lec2_brainstorm_protocol.pdf
 file_size: 11543
 file_type: application/pdf
 learning_resource_types:
