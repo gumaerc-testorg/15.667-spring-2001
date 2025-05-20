@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/c174f82f39c67ad2674319b994299c6f_high_tension.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/c174f82f39c67ad2674319b994299c6f_high_tension.pdf
 file_size: 60637
 file_type: application/pdf
 learning_resource_types:

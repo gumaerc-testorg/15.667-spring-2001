@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/a63f7692343fb7b7008a494a123ce744_strat_iii_harding.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/a63f7692343fb7b7008a494a123ce744_strat_iii_harding.pdf
 file_size: 11588
 file_type: application/pdf
 learning_resource_types:

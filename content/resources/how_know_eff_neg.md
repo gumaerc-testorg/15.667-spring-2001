@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/b471683ce41e60121fc03b3b1a453e01_how_know_eff_neg.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/b471683ce41e60121fc03b3b1a453e01_how_know_eff_neg.pdf
 file_size: 15513
 file_type: application/pdf
 learning_resource_types: []
