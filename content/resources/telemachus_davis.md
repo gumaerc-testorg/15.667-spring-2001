@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/87825fc37a7d79a1cf9bb6b0dc846efb_telemachus_davis.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/87825fc37a7d79a1cf9bb6b0dc846efb_telemachus_davis.pdf
 file_size: 19905
 file_type: application/pdf
 learning_resource_types:
