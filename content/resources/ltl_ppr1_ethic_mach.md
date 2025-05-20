@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/191f61fdba65d4ebc6d2e286a1e4b076_ltl_ppr1_ethic_mach.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/191f61fdba65d4ebc6d2e286a1e4b076_ltl_ppr1_ethic_mach.pdf
 file_size: 64420
 file_type: application/pdf
 learning_resource_types:

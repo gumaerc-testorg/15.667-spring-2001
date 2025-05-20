@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/6d27cdf9b8636bab7255a7688e561951_lec7_manager_dilemma_offended.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/6d27cdf9b8636bab7255a7688e561951_lec7_manager_dilemma_offended.pdf
 file_size: 11466
 file_type: application/pdf
 learning_resource_types:

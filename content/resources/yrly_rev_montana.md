@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/412b53e253c2df8f99e6356a3e9c4176_yrly_rev_montana.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/412b53e253c2df8f99e6356a3e9c4176_yrly_rev_montana.pdf
 file_size: 85838
 file_type: application/pdf
 learning_resource_types:

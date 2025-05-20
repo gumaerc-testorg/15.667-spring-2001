@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains lecture notes.
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/f20b1ecbe7184354cdc5783ba15ad19c_telemachus_tech.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/f20b1ecbe7184354cdc5783ba15ad19c_telemachus_tech.pdf
 file_size: 22082
 file_type: application/pdf
 learning_resource_types:

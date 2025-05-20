@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/f3e3eab164ad035f4f88513adfc2d03e_bargaining_tactics.pdf
+file: /courses/15-667-negotiation-and-conflict-management-spring-2001/f3e3eab164ad035f4f88513adfc2d03e_bargaining_tactics.pdf
 file_size: 22465
 file_type: application/pdf
 learning_resource_types: []
