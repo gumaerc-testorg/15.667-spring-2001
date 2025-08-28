@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/4f3db820d3a9f0315057604f3ecb7d7a_strat_aero_i_case.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/4f3db820d3a9f0315057604f3ecb7d7a_strat_aero_i_case.pdf
 file_size: 70803
 file_type: application/pdf
 learning_resource_types:

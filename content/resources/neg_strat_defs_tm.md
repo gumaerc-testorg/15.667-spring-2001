@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/32e50567b3e2d15a3711ee18a1e21c98_neg_strat_defs_tm.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/32e50567b3e2d15a3711ee18a1e21c98_neg_strat_defs_tm.pdf
 file_size: 208734
 file_type: application/pdf
 learning_resource_types: []
