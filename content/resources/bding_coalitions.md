@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/0ad4beed1f5ced59ba44d3d33a5b223c_bding_coalitions.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/0ad4beed1f5ced59ba44d3d33a5b223c_bding_coalitions.pdf
 file_size: 15707
 file_type: application/pdf
 learning_resource_types:

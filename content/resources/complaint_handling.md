@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/8a008382ff5f146efde32df2d1d79a90_complaint_handling.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/8a008382ff5f146efde32df2d1d79a90_complaint_handling.pdf
 file_size: 17455
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/4b0bb8de0be2109c34f35b88dcb5b3cd_changing_behavior.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/4b0bb8de0be2109c34f35b88dcb5b3cd_changing_behavior.pdf
 file_size: 10968
 file_type: application/pdf
 learning_resource_types: []

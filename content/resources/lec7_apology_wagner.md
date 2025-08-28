@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/d17bfc1a405e796f4dc2edf4ef6cdcb2_lec7_apology_wagner.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/d17bfc1a405e796f4dc2edf4ef6cdcb2_lec7_apology_wagner.pdf
 file_size: 13407
 file_type: application/pdf
 learning_resource_types:

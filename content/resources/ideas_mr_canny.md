@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/dc9c14cf1a65106b924c4e3d26a9423f_ideas_mr_canny.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/dc9c14cf1a65106b924c4e3d26a9423f_ideas_mr_canny.pdf
 file_size: 79713
 file_type: application/pdf
 learning_resource_types:
