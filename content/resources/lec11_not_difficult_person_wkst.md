@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-667-negotiation-and-conflict-management-spring-2001/c3a8862c251738d37a8ac2f4b5148666_lec11_not_difficult_person_wkst.pdf
+file: /ol-ocw-studio-app/courses/15-667-negotiation-and-conflict-management-spring-2001/c3a8862c251738d37a8ac2f4b5148666_lec11_not_difficult_person_wkst.pdf
 file_size: 9237
 file_type: application/pdf
 learning_resource_types:
